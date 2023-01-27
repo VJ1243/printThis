@@ -8,3 +8,6 @@ spec:
   type: other
   lifecycle: unknown
   owner: VJ1243
+  providesApis:
+    - policymanagement
+
