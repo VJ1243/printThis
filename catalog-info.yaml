@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: printThis
+  annotations:
+    github.com/project-slug: VJ1243/printThis
+spec:
+  type: other
+  lifecycle: unknown
+  owner: VJ1243
